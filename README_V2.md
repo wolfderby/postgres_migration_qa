@@ -1,4 +1,4 @@
-prequistes:
+prerequistes:
 - a postres from_db
 - a new host and/or name for the postgres to_db 
 - postgres permissions on each host
