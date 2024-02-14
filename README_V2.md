@@ -1,4 +1,6 @@
-prerequistes:
+# notes this was last performed on gsph_pace ~ sept 2022 on jupyterhub-mearsdb-01.dbmi.pitt.edu:/data/gsph_pace/
+
+prequistes:
 - a postres from_db
 - a new host and/or name for the postgres to_db 
 - postgres permissions on each host
